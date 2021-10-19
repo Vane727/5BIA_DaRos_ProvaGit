@@ -1,0 +1,25 @@
+C:\Users\in5b07>dir
+ Il volume nell'unità C non ha etichetta.
+ Numero di serie del volume: AB9A-2312
+
+ Directory di C:\Users\in5b07
+
+24/09/2021  13:57    <DIR>          .
+24/09/2021  13:57    <DIR>          ..
+24/09/2021  14:33    <DIR>          .eclipse
+16/09/2021  08:32    <DIR>          3D Objects
+16/09/2021  08:32    <DIR>          Contacts
+19/10/2021  09:45    <DIR>          Desktop
+16/09/2021  08:32    <DIR>          Documents
+12/10/2021  09:18    <DIR>          Downloads
+16/09/2021  08:32    <DIR>          Favorites
+16/09/2021  08:32    <DIR>          Links
+16/09/2021  08:32    <DIR>          Music
+16/09/2021  08:32    <DIR>          OneDrive
+16/09/2021  08:32    <DIR>          Pictures
+16/09/2021  08:32    <DIR>          Saved Games
+16/09/2021  08:32    <DIR>          Searches
+28/09/2021  09:23    <DIR>          Videos
+08/10/2021  14:19    <DIR>          workspace
+               0 File              0 byte
+              17 Directory  160.410.882.048 byte disponibili
